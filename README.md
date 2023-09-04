@@ -9,4 +9,3 @@ Assignment for practicing git commands
 5.**To check the status**        ----------->  git status  <br>
 6.**Push your code to the git repository** ->  git push `remote` `branch`  or git push <br>
 7.**Create a pull request**
-
